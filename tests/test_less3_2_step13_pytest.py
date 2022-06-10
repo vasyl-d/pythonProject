@@ -51,7 +51,7 @@ def op_link(link, browser):
             # ожидание чтобы визуально оценить результаты прохождения скрипта
             time.sleep(1)
             # закрываем браузер после всех манипуляций
-  #          browser.quit()
+            # browser.quit()
         return welcome_text
 
 class TestMainPage1():

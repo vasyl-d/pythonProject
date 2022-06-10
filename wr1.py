@@ -23,6 +23,6 @@ def sin_df(x):
     """ Функция для вычисления производной синуса """
     return math.sin(x)
 
-
+print(sin_df(45))
 print(sin_df.__name__)
 print(sin_df.__doc__)
