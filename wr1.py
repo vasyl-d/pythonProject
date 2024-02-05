@@ -18,11 +18,11 @@ def df_decorator(dx=0.01):
     return func_decorator
 
 
-@df_decorator(dx=0.01)
+@df_decorator(dx=0.001)
 def sin_df(x):
     """ Функция для вычисления производной синуса """
     return math.sin(x)
 
-print(sin_df(45))
+print(sin_df(90))
 print(sin_df.__name__)
 print(sin_df.__doc__)

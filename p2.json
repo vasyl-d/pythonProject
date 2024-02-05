@@ -1,0 +1,54 @@
+{
+    "data": [
+        {
+            "id": 8339711,
+            "id_label": "D66",
+            "crated_at": 1706798416000,
+            "created_by_id": 231956,
+            "supplier_id": 30070014,
+            "warehouse_id": 3087135,
+            "products": [
+                {
+                    "title": "Electric scooterr A10G EB102",
+                    "code": "",
+                    "article": "EB102",
+                    "amount": 4.0,
+                    "price": 447.0
+                },
+                {
+                    "title": "Electric scooterr A10Y Model:EB105",
+                    "code": "",
+                    "article": "EB105",
+                    "amount": 4.0,
+                    "price": 495.0
+                }
+            ],
+            "description": "https://drive.google.com/drive/folders/1cn5zAqyKozN5ul4mJIpqYHixmtdaBZMl"
+        },
+        {
+            "id": 8338341,
+            "id_label": "D65",
+            "crated_at": 1706788984000,
+            "created_by_id": 231956,
+            "supplier_id": 30070014,
+            "warehouse_id": 3087135,
+            "products": [
+                {
+                    "title": "Four-wheeled electric vehicle MODEL: MD-D2E",
+                    "code": "",
+                    "article": "MD-D2E",
+                    "amount": 3.0,
+                    "price": 2901.17
+                },
+                {
+                    "title": "Квадроцикл груз. Four-wheeled electric vehicle MODEL: MD-D1E",
+                    "code": "",
+                    "article": "MD-D1E",
+                    "amount": 3.0,
+                    "price": 2552.16
+                }
+            ],
+            "description": "https://drive.google.com/drive/folders/1cn5zAqyKozN5ul4mJIpqYHixmtdaBZMl"
+        }
+    ]
+}
